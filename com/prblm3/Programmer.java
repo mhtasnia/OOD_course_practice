@@ -18,7 +18,7 @@ public class Programmer extends Employee{
 
     @Override
     public void manageProject() {
-        System.out.println(name + " is writing code for the project");
+        System.out.println(name + "is writing code for the project");
     }
 
     
