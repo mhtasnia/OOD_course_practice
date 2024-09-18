@@ -8,7 +8,7 @@ public class Circle implements Drawable {
         System.out.println("Circle drawn!!!1");
         JFrame  frame = new JFrame();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(300, 300);
+        frame.setSize(700, 900);
         frame.setVisible(true);
 
         JPanel  panel = new JPanel(){

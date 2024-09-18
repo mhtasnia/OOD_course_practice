@@ -9,7 +9,7 @@ public class Rectangle implements Drawable{
         System.out.println("Drawing a Rectangle");
          JFrame  frame = new JFrame();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(300, 300);
+        frame.setSize(700, 900);
         frame.setVisible(true);
 
         JPanel  panel = new JPanel(){
