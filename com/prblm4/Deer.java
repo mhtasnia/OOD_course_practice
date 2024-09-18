@@ -1,6 +1,7 @@
 package com.prblm4;
 
 public class Deer extends Animal{
+    
 
     @Override
     public void eat() {
